@@ -1,0 +1,20 @@
+.height{
+    height: 75px;
+    background-color: rgb(178, 228, 213);
+}
+
+.Heading {
+    padding-left: 70px;
+    padding-top: 20px;
+    /* display: inline-block; */
+  }
+
+ .homelink {
+    display: inline-block;
+    color: green;
+  }
+  
+.productslink {
+    display: inline-block;
+    color: rgb(44, 209, 44);
+  }
